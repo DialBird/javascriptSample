@@ -6,7 +6,7 @@ var CommentBox = React.createClass({
     render(){
         return (
             <div className="commentBox">
-            Hello, world! I am test だよ
+                Hello, world! I am test だよ
             </div>
         );
     }

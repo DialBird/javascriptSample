@@ -1,4 +1,5 @@
 
+//routerにはexpressが必須
 
 var express = require('express');
 var router  = express.Router();
